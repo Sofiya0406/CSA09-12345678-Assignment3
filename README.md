@@ -1,1 +1,1 @@
-# CSA09-12345678-Assignment3
+javac Main.java && java Main
