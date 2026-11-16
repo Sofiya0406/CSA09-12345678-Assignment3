@@ -2,7 +2,6 @@
 
 - Name: S. Sofiya
 - Register Number: 192521248
-- Partner: <partner peru, register number>
 - Java Version: <fill>
 
 ## How to run
